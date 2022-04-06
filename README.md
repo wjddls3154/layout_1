@@ -1,5 +1,5 @@
 # 다양한 레이아웃 구조 만들어 보기 1
-## FrontEnd 의 layout
+## FrontEnd 의 layout (옛날 방식)
 
 ### index.html
 ![1](https://user-images.githubusercontent.com/37132897/161914974-35bff87e-472d-47a4-af36-0e59c5b087ae.JPG)
